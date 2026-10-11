@@ -5,11 +5,11 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{827E0CD3-B72D-47B6-A68D-7590B98EB39B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSTBSharp", "src\RSTBSharp\RSTBSharp.csproj", "{CC11BE0E-6DF8-4D2D-AA13-1B6F755D2613}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RstbSharp", "src\RstbSharp\RstbSharp.csproj", "{CC11BE0E-6DF8-4D2D-AA13-1B6F755D2613}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{0AB3BF05-4346-4AA6-1389-037BE0695223}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSTBSharp.Tests", "tests\RSTBSharp.Tests\RSTBSharp.Tests.csproj", "{E8EA9D74-02C2-450D-B991-CD906345317F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RstbSharp.Tests", "tests\RstbSharp.Tests\RstbSharp.Tests.csproj", "{E8EA9D74-02C2-450D-B991-CD906345317F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SarcSharp", "..\SarcSharp\src\SarcSharp\SarcSharp.csproj", "{DD0B8D71-54B4-4106-B188-7D109C890A82}"
 EndProject

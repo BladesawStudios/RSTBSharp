@@ -1,4 +1,4 @@
-# RSTBSharp
+# RstbSharp
 
 A C# reader and writer for resource size tables: `RSTB` from *Breath of the Wild* (Wii U and Switch)
 and `RESTBL` from *Tears of the Kingdom*, with YAML conversion and size calculators for both games.
